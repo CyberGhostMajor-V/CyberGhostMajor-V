@@ -1,7 +1,7 @@
 - Hi, My handle is Major Valentine, CyberGhostMajor-V
 - I’m interested in Cybersecurity, Ethical Hacking, Anime, and Philosophy
 - I’m currently learning Linux, Python, Java, Cybersecurity, Networking, Auditing
-- I’m looking to collaborate on interesting projects or small scale concepts for hands on experience
+- I’m looking to collaborate and learn from others through hands on experience
 - How to reach me astavalentine@protonmail.com 
 - Pronouns: She/Her
 - Fun fact: I love martial arts and fitness
