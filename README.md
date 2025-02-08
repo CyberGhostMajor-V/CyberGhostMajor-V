@@ -1,4 +1,4 @@
-- Hi, My handle is Major Valentine, CyberGhostMajor-V
+- Hi, You can call me Major Valentine
 - I’m interested in Cybersecurity and Ethical Hacking, I also enjoy Anime and Philosophy
 - I’m currently learning Linux, Python, Java, Cybersecurity, Networking, Auditing
 - I’m looking to collaborate with and learn from others
