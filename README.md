@@ -1,6 +1,6 @@
 - Hi, You can call me Major Valentine
 - I’m interested in Cybersecurity and Ethical Hacking, I also enjoy Anime and Philosophy
-- I’m currently learning Linux, Python, Java, Cybersecurity, Networking, Auditing
+- I’m currently learning Linux, Python, Java, Cybersecurity, Ethical Hacking, Networking, and Auditing
 - I’m looking to collaborate with and learn from others
 - How to reach me astavalentine@protonmail.com 
 - Pronouns: She/Her
