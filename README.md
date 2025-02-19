@@ -6,7 +6,6 @@
 - Pronouns: She/Her
 - Fun fact: I love martial arts and fitness
 
-![tryhackme stats](https://raw.githubusercontent.com/CyberGhostMajor/CyberGhostMajor/master/assets/thm_propic.png)
 
 <!---
 CyberGhostMajor-V/CyberGhostMajor-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
