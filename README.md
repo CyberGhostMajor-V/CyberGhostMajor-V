@@ -1,10 +1,11 @@
-- Hey there, You can call me Major
+- Hey there, I'm Asta.
+- Also known as, Major.
 - I’m interested in Cybersecurity and Ethical Hacking, I also enjoy Anime and Philosophy
 - I’m currently learning Linux, Python, Java, Cybersecurity, Ethical Hacking, Networking, and Auditing
-- I’m looking to collaborate with and learn from others
+- I’m looking to learn from and engage with others.
 - How to reach me astavalentine@protonmail.com 
 - Pronouns: She/Her
-- Fun fact: I love martial arts and fitness
+- Fun facts: I love martial arts and fitness.
 
 
 <!---
